@@ -9,3 +9,6 @@
 
 ## Streamlit Web Application
 - A Streamlit web application has been developed to provide an interactive interface for users to upload chest X-ray images and get predictions from the trained model. The application allows users to visualize the uploaded image and view the predicted class probabilities.
+
+
+![stream1](https://github.com/inayatph/Covid-19-Prediction-Using-CNN/assets/164138014/65646a76-1410-443f-8e9a-3f72d5ccdf62)
