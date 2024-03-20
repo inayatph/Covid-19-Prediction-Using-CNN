@@ -12,5 +12,7 @@
 
 ![stream1](https://github.com/inayatph/Covid-19-Prediction-Using-CNN/assets/164138014/d3959ccc-8981-4c30-9dcd-9d9e2d0247aa)
 
+![stream2](https://github.com/inayatph/Covid-19-Prediction-Using-CNN/assets/164138014/324a9c08-5e62-489a-b451-c72c8076783d)
+
 
 
